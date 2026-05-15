@@ -1,0 +1,9 @@
+board_name: bl475e_iot01a
+serial_port: /dev/tty.usbserial-BL475
+baud_rate: 115200
+flash_tool: STM32CubeProgrammer
+swd_interface: STLINK
+boot_marker: BOOT_OK
+flash_address: "0x08000000"
+timeout_sec: 20
+programmer_cli: STM32_Programmer_CLI
