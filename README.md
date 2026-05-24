@@ -1,3 +1,5 @@
+![STM32 Restore Lab](restore-tools-lab-workflow.svg)
+
 # restore-tools-lab
 
 A small embedded tooling lab for practicing restore-style workflows on STM32 boards.
